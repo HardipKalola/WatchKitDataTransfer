@@ -1,4 +1,4 @@
 # WatchKitDataTransfer
 WatchKitDataTransfer
 
-Simple way to transfer data to apple watch.
+Simple way to transfer data from watch to device and device to watch.
